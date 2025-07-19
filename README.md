@@ -1,1 +1,1 @@
-An Amazon Clone created using HTML $ CSS
+An Amazon Clone created using HTML & CSS
